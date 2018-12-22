@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Michal Tkaczyk
+## User-specific files in the .idea folder:
+.idea/workspaces.xml
+.idea/tasks.xml
+
